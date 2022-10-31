@@ -1,4 +1,5 @@
 import { Item } from "./Item";
+
 export class AgedBrie extends Item {
   maxQuality = 50;
   minQuality = 0;

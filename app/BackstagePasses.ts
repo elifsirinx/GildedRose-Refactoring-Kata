@@ -1,4 +1,5 @@
 import { Item } from "./Item";
+
 export class BackstagePasses extends Item {
   remainingDayOfConcert: number;
   maxQuality = 50;

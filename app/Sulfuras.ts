@@ -1,4 +1,5 @@
 import { Item } from "./Item";
+
 export class Sulfuras extends Item {
   maxQuality = 80;
   minQuality = 80;
